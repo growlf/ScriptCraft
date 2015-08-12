@@ -9,7 +9,7 @@
   -->
   <property name="src.canary" location="src/main/java/canary"/>
   <property name="src.bukkit" location="src/main/java/bukkit"/>
-  <property name="lib.mongodb" location="lib/bukkit-1.7.10-R0.1-SNAPSHOT.jar"/>
+  <property name="lib.mongodb" location="lib/mongodb-driver-3.0.3.jar"/>
 
   <!-- compiles against these libraries -->
   <property name="lib.canary" location="target/lib/canarymod.jar"/>
